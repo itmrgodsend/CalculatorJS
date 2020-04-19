@@ -1,0 +1,88 @@
+body {
+background: url(top.jpg);
+background-size: cover;
+
+}
+
+.h1 {
+ position: fixed; left: 700px; bottom: 100px;
+    width: 200px; height: 350px;
+    color: #3D3D3D;
+    font-size: 45px;
+	text-shadow: 3px 3px 4px #808080;
+}
+
+.Border {
+    margin-left: 50px;
+	background: #E9E7E7;
+	padding: 50px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 34px ; 
+    position: fixed; left: 100px; bottom: 100px;
+    width: 200px; height: 350px;
+
+}
+
+.display {
+	position: fixed; left: 173px; bottom: 445px;
+	width: 250px; height: 50px; text-align: right;
+	background-color: #858585;
+	color: white;
+	font-size: 50px;
+	border-radius: 5px;
+}
+
+.table1 {
+position: fixed; left: 150px; bottom: 360px;
+
+
+}
+
+.table2 {
+position: fixed; left: 150px; bottom: 300px;
+
+
+}
+
+.table3 {
+position: fixed; left: 150px; bottom: 240px;
+
+
+}
+
+.table4 {
+position: fixed; left: 150px; bottom: 180px;
+
+
+
+}
+
+.table5 {
+position: fixed; left: 150px; bottom: 120px;
+
+
+
+}
+
+
+
+.btn {
+margin-left: 15px;
+width: 55px; height: 38px;
+border-radius: 5px;
+cursor: pointer;
+font-weight: bold;
+font-size: 15px;
+}
+
+.btn:hover {
+background-color: #B8B8B8;
+
+}
+
+.footer {
+	background-color: grey;
+	position: fixed;
+	 bottom: 1500px;
+
+}
